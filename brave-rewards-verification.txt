@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: codingbot.tk
+Token: 510bc16f968d317fdf6bf603f63813a27e6e4da3a63efffcfa5e0b4e1cce599e
